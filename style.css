@@ -1,0 +1,14 @@
+body{
+    color:rgb(1, 1, 63);
+    background-color: dimgray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#start:hover{
+   background-color: rgb(255, 220, 63);
+}
+#stop:hover{
+    background-color: #ffc0cb;
+}
+button{
+    background-color: skyblue;
+}
